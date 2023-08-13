@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spraveensundar
 - 👀 I’m interested in react native
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on numb
+- 💞️ I’m looking to collaborate on love
 - 📫 How to reach me praveensundar6@gmail.com
 
 <!---
