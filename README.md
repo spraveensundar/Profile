@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @spraveensundar
 - 👀 I’m interested in Business
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on love
 - 📫 How to reach me praveensundars6@gmail.com
 
 <!---
